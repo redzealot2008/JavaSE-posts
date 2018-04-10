@@ -1,5 +1,8 @@
 # JavaSE-posts
 
+## 属性文件
+[属性文件操作之Properties与ResourceBundle](https://www.cnblogs.com/tonghun/p/7124245.html)
+
 ## 运算符  
 [Java的位运算符详解实例——与（&）、非（~）、或（|）、异或（^）](https://www.cnblogs.com/lichengze/p/5713409.html)  
 
