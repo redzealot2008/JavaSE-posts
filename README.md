@@ -1,7 +1,7 @@
 # JavaSE-posts
 
 ## ImageIO
-[](https://github.com/redzealot2008/JavaSE-posts/blob/master/ImageIO%E8%AF%BB%E5%8F%96%E5%9B%BE%E7%89%87%E5%86%8D%E5%86%99%E5%85%A5%E7%9B%AE%E6%A0%87%E5%9B%BE%E7%89%87%EF%BC%8C%E7%9B%AE%E6%A0%87%E5%9B%BE%E7%89%87%E4%B8%8E%E6%BA%90%E5%9B%BE%E7%89%87%E5%A4%A7%E5%B0%8F%E4%B8%8D%E5%90%8C.md)
+[ImageIO读取图片再写入目标图片，目标图片与源图片大小不同](https://github.com/redzealot2008/JavaSE-posts/blob/master/ImageIO读取图片再写入目标图片，目标图片与源图片大小不同.md)
 
 ## 属性文件
 [属性文件操作之Properties与ResourceBundle](https://www.cnblogs.com/tonghun/p/7124245.html)
